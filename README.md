@@ -1,4 +1,4 @@
-# academico-github
+# académico-github
 Repositorio académico para desarrollo de software
-## descripcion
+## descripción
 Exclusivo para fines académicos
